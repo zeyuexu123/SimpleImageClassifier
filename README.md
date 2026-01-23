@@ -10,5 +10,13 @@ The goal of this project is to explore the fundamentals of CNN:
 - How accuracy is measured across classes
 - Practical skills in PyTorch
 
+## Training the Model
+
+To start training:
+
+```
+python train.py
+```
+
 ## Acknowledgements
 Training a Classifier - https://docs.pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
